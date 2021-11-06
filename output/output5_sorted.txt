@@ -1,0 +1,54 @@
+Sorted container contains 50 objects.
+
+Tetrahedron: edge = 1.5118. Surface area = 3.9586.
+Sphere: radius = 1.0546. Surface area = 13.9761.
+Tetrahedron: edge = 2.9964. Surface area = 15.5506.
+Tetrahedron: edge = 3.7069. Surface area = 23.7996.
+Sphere: radius = 1.4927000000000001. Surface area = 27.9998.
+Parallelepiped: length = 5.6749, width = 2.8992, height = 2.0039. Surface area = 32.9695.
+Tetrahedron: edge = 5.1706. Surface area = 46.3052.
+Tetrahedron: edge = 5.5081. Surface area = 52.5474.
+Parallelepiped: length = 11.7019, width = 4.2825, height = 1.1587. Surface area = 58.0664.
+Sphere: radius = 2.4411. Surface area = 74.8826.
+Parallelepiped: length = 1.2057, width = 12.7769, height = 5.9692. Surface area = 91.9562.
+Parallelepiped: length = 8.7221, width = 3.8843, height = 2.7861000000000002. Surface area = 94.391.
+Sphere: radius = 2.9111000000000002. Surface area = 106.4937.
+Parallelepiped: length = 13.532, width = 1.248, height = 6.959. Surface area = 117.5231.
+Parallelepiped: length = 3.0278, width = 8.1565, height = 5.5876. Surface area = 137.9928.
+Parallelepiped: length = 6.1882, width = 1.1548, height = 20.0135. Surface area = 143.0191.
+Tetrahedron: edge = 9.4707. Surface area = 155.3503.
+Tetrahedron: edge = 9.627. Surface area = 160.5203.
+Parallelepiped: length = 5.0018, width = 14.9994, height = 2.2561999999999998. Surface area = 169.2691.
+Sphere: radius = 3.6776999999999997. Surface area = 169.966.
+Tetrahedron: edge = 10.3444. Surface area = 185.3355.
+Sphere: radius = 3.9196999999999997. Surface area = 193.0702.
+Sphere: radius = 4.75. Surface area = 283.5285.
+Parallelepiped: length = 16.2195, width = 2.5679, height = 8.9233. Surface area = 371.6559.
+Parallelepiped: length = 8.9665, width = 10.169, height = 4.2834. Surface area = 390.5619.
+Tetrahedron: edge = 15.1314. Surface area = 396.5574.
+Parallelepiped: length = 9.5115, width = 16.8215, height = 2.8507. Surface area = 456.1054.
+Sphere: radius = 6.0961. Surface area = 466.9965.
+Tetrahedron: edge = 16.6225. Surface area = 478.5646.
+Sphere: radius = 6.236. Surface area = 488.6768.
+Parallelepiped: length = 2.4954, width = 15.0736, height = 13.5056. Surface area = 508.0086.
+Tetrahedron: edge = 17.2834. Surface area = 517.376.
+Parallelepiped: length = 6.67, width = 10.218, height = 9.2901. Surface area = 633.158.
+Parallelepiped: length = 16.9684, width = 6.2745, height = 7.0215. Surface area = 747.5666.
+Parallelepiped: length = 14.5379, width = 7.8606, height = 6.9597. Surface area = 795.331.
+Parallelepiped: length = 8.7203, width = 10.9085, height = 8.6115. Surface area = 819.1723.
+Parallelepiped: length = 13.6636, width = 14.1509, height = 4.627. Surface area = 894.6408.
+Parallelepiped: length = 8.7006, width = 13.9621, height = 9.5846. Surface area = 1164.3242.
+Sphere: radius = 9.7112. Surface area = 1185.1008.
+Parallelepiped: length = 20.6735, width = 3.7751, height = 16.8593. Surface area = 1315.7761.
+Sphere: radius = 11.0361. Surface area = 1530.5261.
+Sphere: radius = 11.0503. Surface area = 1534.4673.
+Sphere: radius = 11.181. Surface area = 1570.9805.
+Parallelepiped: length = 11.8904, width = 12.6732, height = 13.5872. Surface area = 2047.4473.
+Sphere: radius = 13.9094. Surface area = 2431.2314.
+Sphere: radius = 14.009. Surface area = 2466.1743.
+Sphere: radius = 14.0616. Surface area = 2484.7287.
+Sphere: radius = 14.8229. Surface area = 2761.0601.
+Sphere: radius = 15.6275. Surface area = 3068.9408.
+Sphere: radius = 20.4944. Surface area = 5278.1279.
+
+Surface area sum = 39161.7289

@@ -1,0 +1,5 @@
+Sorted container contains 1 objects.
+
+Parallelepiped: length = 1, width = 4, height = 5. Surface area = 20.
+
+Surface area sum = 20

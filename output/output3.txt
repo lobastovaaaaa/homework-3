@@ -1,0 +1,19 @@
+Container contains 15 objects.
+
+Sphere: radius = 4. Surface area = 201.0618.
+Sphere: radius = 10. Surface area = 1256.636.
+Parallelepiped: length = 2, width = 5, height = 9. Surface area = 90.
+Tetrahedron: edge = 13. Surface area = 292.708.
+Parallelepiped: length = 10, width = 20, height = 30. Surface area = 6000.
+Sphere: radius = 3. Surface area = 113.0972.
+Tetrahedron: edge = 8. Surface area = 110.848.
+Parallelepiped: length = 1, width = 1, height = 1. Surface area = 1.
+Sphere: radius = 15. Surface area = 2827.431.
+Tetrahedron: edge = 6. Surface area = 62.352.
+Parallelepiped: length = 3, width = 9, height = 1. Surface area = 27.
+Tetrahedron: edge = 17. Surface area = 500.548.
+Sphere: radius = 19. Surface area = 4536.456.
+Tetrahedron: edge = 7. Surface area = 84.868.
+Parallelepiped: length = 4, width = 2, height = 9. Surface area = 72.
+
+Surface area sum = 16176.006
