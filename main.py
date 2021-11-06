@@ -1,5 +1,5 @@
 import sys
-import time
+# import time
 
 from container import Container
 
@@ -20,13 +20,12 @@ if __name__ == '__main__':
         print("Incorrect argument input!")
         exit()
 
-    start_time = time.time()
-    print("--- %s seconds ---" % (time.time() - start_time))
+    # start_time = time.time()
     ifile = open(input_file_name)
-    string = ifile.read()
+    file_str = ifile.read()
     ifile.close()
 
-    str_array = string.replace("\n", " ").split(" ")
+    str_array = file_str.replace("\n", " ").split(" ")
 
     print('==> Start')
     container = Container()
@@ -65,5 +64,5 @@ if __name__ == '__main__':
     container.write_sorted(ofile2)
     ofile2.close()
 
-    print("--- %s seconds ---" % (time.time() - start_time))
+    # print("--- %s seconds ---" % (time.time() - start_time))
     print('==> Finish')
